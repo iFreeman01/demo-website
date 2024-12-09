@@ -1,3 +1,3 @@
 #Demo
 
-This is a demo for a personal website. First try btw.
+This is a demo for a personal website. First time trying Git btw. 
